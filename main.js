@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = 'It was 94 fahrenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but was not surprised — :insertx: weighs 300 pounds, and it was a hot day.';
+let storyText = '気温華氏40度で外は寒かった。 :insertx: は出掛けた。:inserty:に着いた。:insertz:　体重50kgの :insertx: は驚いたが、Bob は驚かなかった。:inserty:ではよくあることだった。
 let insertX = ['ピカチュウ','ハローキティ','カービィ'];
 let insertY = ['料亭','ディズニーシー','皇居'];
 let insertZ = ['よく晴れていた','街はうるさかった','散歩をしていた'];
